@@ -1,0 +1,47 @@
+body	{
+	background-color: #eaeaea;
+	background-image: url(img/cloudy-day.png);
+	font-family: Cedarville Cursive;
+	color: teal
+}
+
+.header	{
+	border: 35px;
+	background-image: url(img/bdhat.png);
+	background-repeat: no-repeat;
+	background-size: 100px;
+	background-position: top center
+}
+
+.header2 {
+	background-image: url(img/19.png);
+	background-repeat: no-repeat;
+	background-size: 100px;
+	background-position: bottom center
+}
+
+h1	{
+	font-size: 60px;
+	padding: 200px;
+	padding-left: 230px;
+	border-bottom: 5px}
+
+li	{
+	font-family: arial;
+	font-size: 30px;
+	padding-top: 5px;
+	padding-left: 500px
+}
+
+.container a {
+	text-decoration: none;
+	color: teal;
+	padding: 7px;
+	display: inline-block;
+}
+
+.container a:hover {
+	color: white;
+	background-color: darkslategrey;
+	border-radius: 8px
+}

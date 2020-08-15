@@ -1,0 +1,28 @@
+body	{
+	background-color: #eaeaea;
+	background-image: url(img/cloudy-day.png);
+	font-family: Cedarville Cursive;
+	color: teal
+}
+
+h1	{
+	font-size: 60px;
+	padding-left: 100px
+}
+
+h2	{
+	font-size: 40px;
+	padding-left: 100px
+}
+
+h3	{
+	color: salmon;
+	font-size: 35px;
+	padding-left: 100px
+}
+
+p {
+	font-size: 28px;
+	padding-left: 100px;
+	padding right: 120px
+}
